@@ -1,7 +1,7 @@
 
-##  BINF 6308 Assignment7
+BINF 6308 Assignment7
 
-Project name: Reference-guided assembly
+# Project name: Reference-guided assembly
 The project demos the reference-guided assembly process by 
 using third-party modules such as trimmomatic, gmap,
 gsnap, and samtools, and in the end, bam and indexed bam files
